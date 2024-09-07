@@ -1,0 +1,11 @@
+{
+  "name": "com.arparec.hpmatfix",
+  "version": "1.0.0",
+  "displayName": "HPCOS Material Fix",
+  "description": "Applies textures to materials for the HPCOS BONELAB Mod.",
+  "author": {
+    "name": "ArpaRec",
+    "email": "techside@arparec.dev",
+    "url": "https://arparec.dev"
+  }
+}
